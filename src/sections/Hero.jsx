@@ -21,7 +21,7 @@ const Hero = () => {
         )
     })
     return (
-        <section id="hero" className="relative overflow-hidden">
+        <section id="aisha" className="relative overflow-hidden">
             <div className='absolute top-0 -left-0 z-10 w-screen h-screen'>
                 <img src="images/bg_night.jpg" alt="background" className="opacity-25 w-full h-full" />
             </div>

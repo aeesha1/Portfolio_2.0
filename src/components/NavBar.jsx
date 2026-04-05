@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { navLinks } from '../constants'
 
 const NavBar = () => {
@@ -21,7 +21,7 @@ const NavBar = () => {
     return (
         <header className={`navbar ${scrolled ? 'scrolled' : 'not-scrolled'}`}>
             <div className="inner">
-                <a href="#hero" className="logo">
+                <a href="#aisha" className="logo">
                     Aisha
                 </a>
 
