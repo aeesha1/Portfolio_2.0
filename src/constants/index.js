@@ -121,15 +121,15 @@ const techStackImgs = [
 const expCards = [
   {
     logoPath: "/images/alumna_logo.png",
-    title: "Lead Full Stack Developer",
+    title: "Full Stack Developer",
     company: "Alumna (8 members startup)",
-    date: "November 2023 - Present",
+    date: "November 2023 - December 2024",
     responsibilities: [
-      "Led frontend development of an educational platform, transforming design specifications into responsive, user-friendly interfaces.",
+      "Built responsive user interfaces for an educational platform based on design specifications",
       "Developed RESTful API endpoints to enable communication between frontend and backend systems, ensuring seamless data flow and integration.",
-      "Implemented secure user authentication and authorization system, ensuring data protection and streamlined user access across the platform.",
+      "Implemented secure user authentication using Google Auth to ensure user data safety and user access across the platform.",
       "Integrated Google Drive API for seamless file upload, storage, and retrieval, enabling efficient document management and sharing capabilities.",
-      "Leveraged Git version control to track changes, manage codebase integrity, and enhance team collaboration."
+      "Used Git version control to track changes, manage codebase integrity, and enhance team collaboration."
     ]
   },
   {
@@ -141,7 +141,7 @@ const expCards = [
       "Assisted in the redesign and maintenance of the organization's website using WordPress, incorporating design elements that improved user experience and increased site traffic.",
       "Collaborated with cross-functional teams to ensure design consistency, meet organizational objectives and enhance the overall user experience.",
       "Optimized site performance by removing redundant plugins, improving load times by 90%.",
-      "Conducted a comprehensive security audit, identifying vulnerabilities and implementing fixes that reduced potential security threats."
+      "Conducted a comprehensive security audit, identifying vulnerabilities and implementing fixes to strengthen system security."
     ]
   }
 ];
@@ -165,8 +165,8 @@ const expLogos = [
 const socialImgs = [
   {
     name: "gmail",
-    url: "mailto:aisha.agboola18@gmail.com",
-    imgPath: "/images/gmail.png",
+    url: "mailto:aisha.agboola@outlook.com",
+    imgPath: "/images/email.png",
   },
   {
     name: "whatsapp",

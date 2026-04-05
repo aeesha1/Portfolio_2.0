@@ -1,6 +1,5 @@
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
-import React from 'react'
 import Button from '../components/Button'
 import HeroExperience from '../components/HeroModels/HeroExperience'
 
@@ -43,7 +42,7 @@ const Hero = () => {
                         </div>
                         <div className='flex gap-5 items-center justify-center xl:justify-start'>
                             <Button className="md:w-48 md:h-16 w-40 h-12" id="work" text="See my Work" />
-                            <Button className="md:w-50 md:h-16 w-43 h-12" id='cv' url="https://drive.google.com/file/d/1UhhQv9jaI6F2mC7BRc4f36GpuQAGzxzT/view?usp=sharing" text="Download CV" />
+                            <Button className="md:w-50 md:h-16 w-43 h-12" id='cv' url="https://drive.google.com/file/d/1NohlnhhlOASyMBQxdyVhW0Dn1yfCmeJi/view?usp=sharing" text="Download CV" />
                         </div>
                     </div>
 
